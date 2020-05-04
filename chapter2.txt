@@ -1,0 +1,2 @@
+This is even a better chapter. We have made some changes to the experimental branch in chapter1.txt previously before creating 
+this chapter2.txt file i.e we switched back to our master branch from our experimental branch and then created this file.
